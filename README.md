@@ -1,3 +1,3 @@
 # Procesos-estoc-sticos-Stochastic-processes
 
-En este repositorio incluiré actividades relacionadas con la asignatura de procesos estocásticos.
+Este repositorio contiene jupyter notebooks simulando procesos estocásticos de distintos tipos
